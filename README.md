@@ -4,7 +4,7 @@ My first Python calendar project
 This is a learning project where I explore the basics of Python by creating a simple calendar.
 
 ## What the project does
-- Displays the current date  
+- Displays the year, month, and weekdays  
 - Shows how to work with dates in Python  
 - Demonstrates basic Python features
 
